@@ -4,5 +4,5 @@
 
 Aditi - Pushed 2 cleaned sources - SWAPPA (8713 records), CRAIGLIST (1274 records)
 
-I am Working on scraping GAZELLE
+Sovan - Gazelle Scrapped (213) records.
 
